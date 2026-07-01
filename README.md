@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="bn">
 <head>
     <meta charset="UTF-8">
@@ -266,7 +266,7 @@
       projectId: "dk-club-1d649",
       storageBucket: "dk-club-1d649.firebasestorage.app",
       messagingSenderId: "1097896403968",
-      appId: "1:1097896403968:web:ac1b8c071ee225cab3a4e5",
+      appId"1:1097896403968:web:ac1b8c071ee225cab3a4e5",
       measurementId: "G-RT3FLNP8FG"
     };
 
